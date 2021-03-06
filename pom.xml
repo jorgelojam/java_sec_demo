@@ -215,7 +215,7 @@
                 <artifactId>sonar-maven-plugin</artifactId>
                 <version>3.8.0.2131</version>
             </plugin>
-            <!-- make container image -->
+            <!-- make container image
             <plugin>
                 <groupId>com.google.cloud.tools</groupId>
                 <artifactId>jib-maven-plugin</artifactId>
@@ -242,6 +242,7 @@
                     </from>
                 </configuration>
             </plugin>
+            -->
         </plugins>
     </build>
 
