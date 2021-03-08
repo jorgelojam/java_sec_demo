@@ -223,7 +223,6 @@
                     <to>
                         <image>jtux/${project.artifactId}</image>
                         <tags>
-                            <tag>${project.version}</tag>
                             <tag>latest</tag>
                         </tags>
                     </to>
